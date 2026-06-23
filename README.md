@@ -74,7 +74,7 @@ An AI-powered web platform designed for smart nutrition and fitness tracking. It
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefatedone&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Alex's GitHub Stats" width="48%">&nbsp;
+  <img src="![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=thefatedone&show_icons=true&include_all_commits=true&theme=dark)" alt="Alex's GitHub Stats" width="48%">&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefatedone&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
 
