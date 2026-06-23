@@ -63,7 +63,7 @@ I am a passionate software developer specializing in **Backend Development** wit
 #### 🥑 [NutriMind (Fitness Project)](https://github.com/thefatedone/fitness-project)
 An AI-powered web platform designed for smart nutrition and fitness tracking. It features comprehensive health logic, including precise **BMR (Basal Metabolic Rate)** and **TDEE (Total Daily Energy Expenditure)** calculation logic.
 
-* ☕ **Backend:** Powered by **Java** and **Spring Boot** with seamless Python backend integration.
+* ☕ **Backend:** Powered by with **Python Fast API** backend integration.
 * 🗄️ **Database:** Structured with **PostgreSQL** and managed using **Flyway** migrations.
 * 🔒 **Security & Features:** Robust user authentication, automated email notification logic via **MailHog** in a Dockerized environment.
 
