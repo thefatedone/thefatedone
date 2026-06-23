@@ -71,7 +71,7 @@ An AI-powered web platform designed for smart nutrition and fitness tracking. It
 
 <p align="left">
   <a href="https://github.com/thefatedone/fitness-project" target="_blank">
-    <img src="https://img.shields.io/badge/Посмотреть_Репозиторий-GitHub-6db33f?style=for-the-badge&logo=github&logoColor=white" alt="Посмотреть Репозиторий" />
+    <img src="https://img.shields.io/badge/Open_Repository-GitHub-6db33f?style=for-the-badge&logo=github&logoColor=white" alt="Посмотреть Репозиторий" />
   </a>
 </p>
 
