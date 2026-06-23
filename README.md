@@ -63,7 +63,7 @@ I am a passionate software developer specializing in **Backend Development** wit
 #### 🤖 [NutriMind (Fitness Project)](https://github.com/thefatedone/fitness-project)
 An AI-powered web platform designed for smart nutrition and fitness tracking. It features comprehensive health logic, including precise **BMR (Basal Metabolic Rate)** and **TDEE (Total Daily Energy Expenditure)** calculation logic.
 
-* 💻 **Backend:** Powered by **Java** and **Spring Boot** with a seamless **Python FastAPI** integration.
+* 💻 **Backend:** Powered by **Python FastAPI** integration.
 * 🗄️ **Database:** Structured with **PostgreSQL** and managed using **Flyway** migrations.
 * 🔒 **Security & Features:** Robust user authentication, automated email notification logic via **MailHog** in a Dockerized environment.
 
@@ -80,8 +80,8 @@ An AI-powered web platform designed for smart nutrition and fitness tracking. It
 ### 🔹 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefatedone&show_icons=true&bg_color=0d1117&title_color=00a2ff&icon_color=00a2ff&text_color=c9d1d9&border_color=30363d" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefatedone&layout=compact&bg_color=0d1117&title_color=00a2ff&text_color=c9d1d9&border_color=30363d" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefatedone&show_icons=true&bg_color=0d1117&title_color=00a2ff&icon_color=00a2ff&text_color=c9d1d9&border_color=30363d" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefatedone&layout=compact&bg_color=0d1117&title_color=00a2ff&text_color=c9d1d9&border_color=30363d" height="165" alt="Most Used Languages" />
 </p>
 
 ---
