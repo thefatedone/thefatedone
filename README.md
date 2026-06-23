@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Alex! 👋</h1>
+  <h1>Hi, I'm Alexander Pepanian! 👋</h1>
   <p><strong>Software Developer & Student based in Tbilisi, Georgia</strong></p>
 
   <p>
