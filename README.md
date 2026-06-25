@@ -56,7 +56,7 @@ I am a passionate software developer specializing in **Backend Development** wit
   </tr>
   <table>
   <tr>
-    <td align="center" width="120"><strong>AI Tools</strong></td>
+    <td align="center"><strong>AI Tools</strong></td>
     <td>
     <img src="https://img.shields.io/badge/Claude-1e3a8a?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
     <img src="https://img.shields.io/badge/Minimax-1e3a8a?style=for-the-badge&logo=robotframework&logoColor=white" alt="Minimax">
