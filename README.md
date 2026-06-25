@@ -63,7 +63,6 @@ I am a passionate software developer specializing in **Backend Development** wit
     </td>
   </tr>
 </table>
----
 
 ### 🔹 Featured Project
 
