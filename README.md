@@ -54,6 +54,15 @@ I am a passionate software developer specializing in **Backend Development** wit
       <img src="https://img.shields.io/badge/MailHog-1e3a8a?style=for-the-badge&logo=mailhog&logoColor=white" alt="MailHog">
     </td>
   </tr>
+  <table>
+  <tr>
+    <td align="center" width="120"><strong>AI Tools</strong></td>
+    <td>
+    <img src="https://img.shields.io/badge/Claude-1e3a8a?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+    <img src="https://img.shields.io/badge/Minimax-1e3a8a?style=for-the-badge&logo=robotframework&logoColor=white" alt="Minimax">
+    <img src="https://img.shields.io/badge/Antigravity-1e3a8a?style=for-the-badge&logo=python&logoColor=white" alt="Antigravity">
+    </td>
+  </tr>
 </table>
 
 ---
