@@ -54,11 +54,12 @@ I'm a backend-focused software developer specializing in the **Java / Spring Boo
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>AI Tools</strong></td>
+    <td align="center"><strong>AI Tools and LLM's</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Claude-1e3a8a?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
       <img src="https://img.shields.io/badge/Minimax-1e3a8a?style=for-the-badge&logo=robotframework&logoColor=white" alt="Minimax">
       <img src="https://img.shields.io/badge/Antigravity-1e3a8a?style=for-the-badge&logo=appwrite&logoColor=white" alt="Antigravity">
+      <img src="https://img.shields.io/badge/Ollama-1e3a8a?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
     </td>
   </tr>
 </table>
