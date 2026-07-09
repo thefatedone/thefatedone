@@ -54,6 +54,14 @@ I'm a backend-focused software developer specializing in the **Java / Spring Boo
       <img src="https://img.shields.io/badge/Postman-1e3a8a?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
     </td>
   </tr>
+  <tr>
+    <td align="center"><strong>AI Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-1e3a8a?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+      <img src="https://img.shields.io/badge/Minimax-1e3a8a?style=for-the-badge&logo=robotframework&logoColor=white" alt="Minimax">
+      <img src="https://img.shields.io/badge/Antigravity-1e3a8a?style=for-the-badge&logo=appwrite&logoColor=white" alt="Antigravity">
+    </td>
+  </tr>
 </table>
 
 ---
@@ -71,12 +79,10 @@ A programmable workflow automation engine built with **Java 21** and **Spring Bo
 <br>
 
 <p align="left">
-  <a href="https://github.com/thefatedone/REPO_NAME" target="_blank">
+  <a href="https://github.com/thefatedone/task-manager" target="_blank">
     <img src="https://img.shields.io/badge/Open_Repository-GitHub-00a2ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Repository" />
   </a>
 </p>
-
-<sub>Replace `REPO_NAME` above with the actual repo slug.</sub>
 
 ---
 
@@ -90,15 +96,18 @@ A programmable workflow automation engine built with **Java 21** and **Spring Bo
 ### 🔹 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefatedone&show_icons=true&bg_color=0d1117&title_color=00a2ff&icon_color=00a2ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefatedone&layout=compact&bg_color=0d1117&title_color=00a2ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" height="165" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=thefatedone&show_icons=true&bg_color=0d1117&title_color=00a2ff&icon_color=00a2ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thefatedone&layout=compact&bg_color=0d1117&title_color=00a2ff&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" height="165" alt="Most Used Languages" />
 </p>
 
 <!--
-If a stats card shows "Error" instead of rendering: the shared public Vercel instance is rate-limited or down, not your account.
-- cache_seconds=1800 above already reduces how often it re-fetches, which helps.
-- If it's still down, search "github-readme-stats vercel mirror" for an alternate public instance.
-- Most reliable fix: fork anuraghazra/github-readme-stats, deploy your own copy on Vercel with your own GitHub token, and point these <img> src at your own deployment.
+Switched the domain from github-readme-stats.vercel.app to github-stats-extended.vercel.app.
+The original public Vercel deployment is currently down (confirmed in the project's own GitHub discussions —
+its Vercel deployment shows as paused). github-stats-extended is the actively maintained successor built by
+the same community; it's a drop-in replacement, same query params, same look.
+If this one also fails to load, self-hosting is the permanent fix: fork anuraghazra/github-readme-stats
+(or stats-organization/github-stats-extended), deploy your own copy to Vercel with your own GitHub token,
+and point these <img> src at your own deployment.
 -->
 
 ---
