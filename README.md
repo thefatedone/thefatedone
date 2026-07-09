@@ -114,5 +114,7 @@ and point these <img> src at your own deployment.
 - 💼 **LinkedIn:** [Alexander Pepanian](https://www.linkedin.com/in/alexanderpepanian/)
 - ✈️ **Telegram:** [@thefated0ne](https://t.me/thefated0ne)
 - 💻 **GitHub:** [@thefatedone](https://github.com/thefatedone)
+- 📸 **Instagram:** [@thefated0ne](https://www.instagram.com/thefated0ne)
+- 🐳 **Facebook:** [@thefated0ne](https://www.facebook.com/thefated0ne)
 
 💬 *Feel free to reach out if you want to collaborate on Java/Spring projects or discuss tech!*
