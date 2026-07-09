@@ -68,7 +68,7 @@ I'm a backend-focused software developer specializing in the **Java / Spring Boo
 
 ### 🔹 Featured Project
 
-#### ⚙️ [Task Manager — Workflow Engine](https://github.com/thefatedone/REPO_NAME)
+#### ⚙️ [Task Manager — Workflow Engine](https://github.com/thefatedone/task-manager)
 A programmable workflow automation engine built with **Java 21** and **Spring Boot**, letting business logic be defined as structured JSON workflows.
 
 * 💻 **Engine:** Custom execution engine supporting `HTTP_CALL`, `LOG`, `EMAIL`, and `TRANSFORM` task types.
@@ -88,8 +88,8 @@ A programmable workflow automation engine built with **Java 21** and **Spring Bo
 
 ### 🔹 Other Projects
 
-- **[Student Course Enrollment System](https://github.com/thefatedone/REPO_NAME)** — Spring Boot / JPA / MySQL platform for managing students, courses, teachers, and enrollments.
-- **[Client-Service Manager](https://github.com/thefatedone/REPO_NAME)** — Spring Boot / MySQL backend for client interaction and service-request tracking.
+- **[Student Course Enrollment System](https://github.com/thefatedone/courseenrollmentproject)** — Spring Boot / JPA / MySQL platform for managing students, courses, teachers, and enrollments.
+- **[Client-Service Manager](https://github.com/thefatedone/client-service-manager)** — Spring Boot / MySQL backend for client interaction and service-request tracking.
 
 ---
 
