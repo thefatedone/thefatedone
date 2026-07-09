@@ -4,8 +4,6 @@
 
   <p>
     <a href="https://github.com/thefatedone" target="_blank"><img src="https://img.shields.io/github/followers/thefatedone?label=Follow&style=for-the-badge&color=00a2ff" alt="GitHub Followers"></a>
-    <a href="https://www.linkedin.com/in/alexanderpepanian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-00a2ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://t.me/thefated0ne" target="_blank"><img src="https://img.shields.io/badge/Telegram-00a2ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   </p>
 </div>
 
