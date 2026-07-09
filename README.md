@@ -96,7 +96,7 @@ An AI-powered web platform designed for smart nutrition and fitness tracking. It
 - 💼 **LinkedIn:** [Alexander Pepanian](https://www.linkedin.com/in/alexander-pepanian-a787aa364/)
 - ✈️ **Telegram:** [@thefated0ne](https://t.me/thefated0ne)
 - 📸 **Instagram:** [@thefated0ne](https://www.instagram.com/thefated0ne/)
-- 👥 **Facebook:** [alex.pepo.5](https://www.facebook.com/thefated0ne/)
+- 👥 **Facebook:** [@thefated0ne](https://www.facebook.com/thefated0ne/)
 - 💻 **GitHub:** [@thefatedone](https://github.com/thefatedone)
 
 💬 *Feel free to reach out if you want to collaborate on Java/Spring projects or discuss tech!*
